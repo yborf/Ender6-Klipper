@@ -2,6 +2,6 @@
 
 ## Ender 6 klipper files
 
-https://github.com/Desuuuu/klipper merging official:
+https://github.com/Desuuuu/klipper merge:
 
--  SET_PRINT_STATS_INFO
+-  added support SET_PRINT_STATS_INFO official klipper
