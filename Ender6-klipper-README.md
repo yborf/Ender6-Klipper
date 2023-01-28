@@ -4,4 +4,4 @@
 
 https://github.com/Desuuuu/klipper merge:
 
--  added support SET_PRINT_STATS_INFO official klipper
+-  added support SET_PRINT_STATS_INFO in print_stats.py official klipper
